@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">📚 Currently Learning<br><br> • Data Structures & Algorithms in Python<br><br> •  Machine Learning Algorithms<br><br> •  Deep Learning<br><br> • Exploratory Data Analysis (EDA)  • Retrieval Augmented Generation (RAG) </p>
+<p align="left">📚 Currently Learning<br><br> • Data Structures & Algorithms in Python<br><br> •  Machine Learning Algorithms<br><br> •  Deep Learning<br><br> • Exploratory Data Analysis (EDA)<br><br>• Retrieval Augmented Generation (RAG) </p>
 
 ###
 
